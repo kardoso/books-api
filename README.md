@@ -6,6 +6,12 @@
 - ESLint
 - Nodemon
 - Npm
+- Mocha
+- Sinon
+- Should
+
+## Tests
+Run tests with `npm test`
 
 ## Import Book data into your mongoDB database.
 
