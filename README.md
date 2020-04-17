@@ -1,3 +1,12 @@
+## What was used
+- Node
+- Express
+- MongoDB
+- Mongoose
+- ESLint
+- Nodemon
+- Npm
+
 ## Import Book data into your mongoDB database.
 
 Make sure MongoDB is running with the command `mongod` then run `mongo bookAPI < booksJson.js` from the command line.
@@ -7,3 +16,4 @@ Make sure MongoDB is running with the command `mongod` then run `mongo bookAPI <
 | ------------------------ | ----------------------------------------------- |
 | /api/books               | Show All books                                  |
 | /api/books?genre=Fantasy | Filter books of a genre, "Fantasy" in this case |
+| /api/books/:id           | Get book with id                                |
