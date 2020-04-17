@@ -1,0 +1,14 @@
+db.books.insert([
+  {
+    title: 'War and Peace',
+    genre: 'Historical Fiction',
+    author: 'Lev Nikolayevich Tolstoy',
+    read: false
+  },
+  {
+    title: 'Les Misérables',
+    genre: 'Historical Fiction',
+    author: 'Victor Hugo',
+    read: false
+  }
+])
