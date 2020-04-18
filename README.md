@@ -23,10 +23,10 @@
 - [Express](https://expressjs.com/) - Server framework
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Mongoose](https://mongoosejs.com/) - Database Object modeling
-- [Mocha]() - Testing
-- [Sinon]() - Testing
-- [Should]() - Testing
-- [Supertest]() - Integration testing
+- [Mocha](https://mochajs.org/) - Testing
+- [Sinon](https://sinonjs.org/) - Testing
+- [Should](https://www.npmjs.com/package/should) - Testing
+- [Supertest](https://www.npmjs.com/package/supertest) - Integration testing
 
 ## :blue_book: Importing data
 Import Book data into your mongoDB database.
